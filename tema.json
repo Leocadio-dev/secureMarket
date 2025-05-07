@@ -1,0 +1,28 @@
+{
+  "name": "Tema Inter Roxo",
+  "dataColors": [
+    "#6E10AD",
+    "#9743C5",
+    "#B76EDA",
+    "#CE97E7",
+    "#E2C1F2",
+    "#F0DDF9",
+    "#44007C",
+    "#2C0052"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#6E10AD",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "*": [
+          {
+            "fontFamily": "Inter"
+          }
+        ]
+      }
+    }
+  }
+}
+
